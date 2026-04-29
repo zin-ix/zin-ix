@@ -150,13 +150,13 @@ Represented the institution in a high-pressure coding environment, solving compl
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zin-00&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zin-ix&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zin-00&layout=compact&theme=default&hide_border=true&langs_count=8" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zin-ix&layout=compact&theme=default&hide_border=true&langs_count=8" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zin-00&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zin-ix&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 ---
